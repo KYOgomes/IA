@@ -1,0 +1,22 @@
+1 - c
+2 - d
+3 - b
+
+4 - Os quatro se transformaram em “ter”. A função lemmatize converte as palavras para a sua forma base ou lema. No caso dos verbos "tiver", "tenho", "tinha" e "tem", que são formas conjugadas do verbo "ter”.
+
+6 -  g(x) = 0.
+	h(x) = 3
+	 f(x) = 0 + 3, f(x) = 3
+	LETRA B
+7 - D
+8 - C
+
+9 - O número ideal seria 5, pois a métrica elbow procura onde a distorção começa a diminuir de forma lenta.
+
+10 - B
+11 - E
+12 - A
+13 - A
+14 - C
+
+(5 imagem)
