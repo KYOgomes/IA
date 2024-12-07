@@ -13,4 +13,4 @@ Este é o repositório da disciplina Inteligência Artificial (IA), ministrada p
 
 Este repositório contém os códigos, exercícios e projetos desenvolvidos durante o curso, que consolidam os conhecimentos adquiridos e demonstram a aplicação prática dos conceitos teóricos.
 
-[Imagem IA](IA.png)
+![Descrição da imagem](Listas/Lista7/IA.png)
