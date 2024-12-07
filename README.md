@@ -12,3 +12,5 @@ Este é o repositório da disciplina Inteligência Artificial (IA), ministrada p
 - Problemas Clássicos da IA: Trabalhamos em desafios como a resolução de funções lógicas (AND, OR, XOR) e a modelagem de problemas complexos.
 
 Este repositório contém os códigos, exercícios e projetos desenvolvidos durante o curso, que consolidam os conhecimentos adquiridos e demonstram a aplicação prática dos conceitos teóricos.
+
+[Imagem IA](IA.pnjpeg)
