@@ -2,7 +2,7 @@
 Este é o repositório da disciplina Inteligência Artificial (IA), ministrada pela professora Cristiane Neri. Ao longo do curso, exploramos diversos tópicos fundamentais na área de IA, incluindo:
 
 <p align="center">
-  <img src="IA.png" alt="Imagem IA" />
+  <img src="Listas/Lista7/IA.png" alt="Imagem IA" />
 </p>
 
 - Árvores de Decisão: Estudamos algoritmos como ID3, C4.5, e seus usos em classificação e tomada de decisão.
