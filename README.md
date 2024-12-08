@@ -1,5 +1,5 @@
-# Inteligência Artificial
-Este é o repositório da disciplina Inteligência Artificial (IA), ministrada pela professora Cristiane Neri. Ao longo do curso, exploramos diversos tópicos fundamentais na área de IA, incluindo:
+# Inteligência Artificial #
+Este é o repositório da disciplina **Inteligência Artificial (IA)**, ministrada pela professora **Cristiane Neri**. Ao longo do curso, exploramos diversos tópicos fundamentais na área de IA, incluindo:
 
 <p align="center">
   <img src="Listas/Lista7/IA.png" alt="Imagem IA" />
